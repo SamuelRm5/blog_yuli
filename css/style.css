@@ -95,9 +95,12 @@ a:hover{
     padding: 60px;
     box-shadow: 3px 3px 5px 3px #999;
 }
-sub{
+.contenido h1{
     font-size: 35px;
 }
+sub{
+    font-size: 25px;
+}
 .contenido p{
-    font-size: 20px;
+    font-size: 15px;
 }
